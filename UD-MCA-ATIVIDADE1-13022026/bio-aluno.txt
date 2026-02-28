@@ -1,0 +1,7 @@
+Nome: Micael William Costa de Oliveira Lisboa
+RA: 824213069
+Curso: Ciência da Computação
+Semestre: 4°
+Bairro: Mooca
+Se trabalha: Atualmente trabalho como auxiliar de estoque
+Objetivo: Trabalhar com desenvolvimento back-end
