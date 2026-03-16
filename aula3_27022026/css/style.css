@@ -1,54 +1,36 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+h1 {
+    color: white;
 }
 
 body {
-    background-color: #f4f4f4;
     font-family: Arial;
-    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #003366;
+    color: white;
     padding: 20px;
-} 
+    text-align: center;
+}
+
+h2 {
+    color: #003366;
+}
 
 img {
-    width: 250px;
-    height: 250px;
-    border-radius: 600px;
-}
-
-a {
-    color: darkred;
-    text-decoration: none;
-}
-
-.sobre, .contato {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.contato {
-    margin: 15px;
-}
-
-.contato .link {
-    display: flex;
-    justify-content: center;
-}
-
-.link a{
-    padding: 10px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
 }
 
 ul {
-    list-style-type: none;
-    margin: 10px;
-    
+    background-color: white;
+    padding: 15px;
 }
 
-ul li {
-    margin: 10px;
-}
-
-ul li p {
-    font-weight: bold;
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
 }
